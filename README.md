@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Guerra;Eu+tenho+19+anos;I+from+Brasil,+SP;Eu+estudo+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
-  ![Snake animation](https://github.com/LucasSMguerrabr/LucasSMguerrabr/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+ ![Snake animation](https://github.com/LucasSMguerrabr/LucasSMguerrabr/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 
 <div align="center">  
